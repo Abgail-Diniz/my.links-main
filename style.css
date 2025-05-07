@@ -14,7 +14,7 @@
 }
 .light{
     --text-color: #2f2e2e;
-    --stroke-color: rgba(250, 244, 244, 0.945);
+    --stroke-color: rgba(250, 244, 244, 0.9454);
     --surface-color:  #d29f58d2;
     --surface-color-hover: #ffd9a4;
     --highlight-color: #f1c589fb;
